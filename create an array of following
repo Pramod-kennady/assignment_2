@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fruits Array</title>
+</head>
+<body>
+
+<script>
+    var fruits = ["apple", "banana", "orange", "grape", "mango"];
+</script>
+
+</body>
+</html>
